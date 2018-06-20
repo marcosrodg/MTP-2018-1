@@ -7,7 +7,7 @@ int main()
 	int i= 0,j = 0;
 	
 	printf("Digite a sequencia a ser convertida :");
-	scanf("%s",&numero);
+	scanf("%s",numero);
 	
 	while(numero[i] != '\0')
 	{
