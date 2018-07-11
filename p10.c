@@ -1,5 +1,5 @@
 //Marcos Vinicius Souza Rodrigues
-// 117111ECP008
+// 11711ECP008
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -142,7 +142,7 @@ void salvarArq(Produto *p, int cont)
 		printf("Produtos cadastrados com sucesso!\n\n");
 		fclose(arq);
 	}else
-		printf("Erro: n„o impossÌvel abrir o arquivo\n\n");
+		printf("Erro: n√£o imposs√≠vel abrir o arquivo\n\n");
 }
 
 int main()
