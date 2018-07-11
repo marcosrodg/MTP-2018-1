@@ -74,7 +74,8 @@ int main ()
 			scanf("%d", &num);
 			getchar();
 			printf("%X", num);
-			break		case '7':
+			break;		
+		case '7':
 			scanf("%o", &num);
 			getchar();
 			printf("%d", num);
